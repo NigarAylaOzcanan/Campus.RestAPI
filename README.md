@@ -1,4 +1,4 @@
-# Campus Mersys RestApi Project 
+# Campus Mersys REST API Testing Project 
 
 **Two Week Sprint**
 
